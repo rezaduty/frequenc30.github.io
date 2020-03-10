@@ -1,13 +1,13 @@
 # Site Settings
-name: مهندسی اجتماعی
-title: مهندسی اجتماعی
-description: کتابچه نکات مهندسی اجتماعی
+name: امنیت سیستم های مخابراتی و بی سیم
+title: امنیت سیستم های مخابراتی و بی سیم
+description: کتابچه امنیت سیستم های مخابراتی و بی سیم
 tags:
-  - social
-  - engineering
+  - communication
+  - wireless
+  - بی سیم
+  - مخابرات
   - امنیت
-  - مهندسی_اجتماعی
-  - هکر
 show_hero: true
 
 
